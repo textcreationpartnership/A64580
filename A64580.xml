@@ -1,0 +1,449 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The whole art of reflex dialling shevving the vvay to make all manner of dials which shall shew the houre by a spot of light reflected from a glasse upon any cieling whether it be flat or curved, or any other way irregular. As also upon any other object whatsoever, and whether the glasse be plain, or convex, as likewise whether it lie in the plain of the horizon, or oblique unto it. Together with all necessary furniture belonging thereunto. All performed by an easie instrument fitted, with lines to that purpose. Published by Anthony Thompson.</title>
+            <author>Thompson, Anthony, d. 1665 or 6.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64580</idno>
+            <idno type="STC">Wing T998A</idno>
+            <idno type="STC">ESTC R219276</idno>
+            <idno type="EEBO-CITATION">99830766</idno>
+            <idno type="PROQUEST">99830766</idno>
+            <idno type="VID">35220</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64580)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35220)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2082:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The whole art of reflex dialling shevving the vvay to make all manner of dials which shall shew the houre by a spot of light reflected from a glasse upon any cieling whether it be flat or curved, or any other way irregular. As also upon any other object whatsoever, and whether the glasse be plain, or convex, as likewise whether it lie in the plain of the horizon, or oblique unto it. Together with all necessary furniture belonging thereunto. All performed by an easie instrument fitted, with lines to that purpose. Published by Anthony Thompson.</title>
+                  <author>Thompson, Anthony, d. 1665 or 6.</author>
+               </titleStmt>
+               <extent>[12] p., [2] leaves of plates : ill.  </extent>
+               <publicationStmt>
+                  <publisher>printed for William Leybourn,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>M. DC. LVIII. [1658]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sundials --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35220:1" rendition="simple:additions"/>
+            <p>THE WHOLE ART OF REFLEX DIALLING, Shevving the vvay to make all manner of Dials which ſhall ſhew the houre by a ſpot of light reflected from a Glaſſe upon any Cieling whether it be flat or curved, or any other way irregular. <hi>AS ALSO</hi> Vpon any other object whatſoever, and whether the Glaſſe be plain, or convex, as likewiſe whether it lie in the plain of the Horizon, or oblique unto it.<hi>Together with all neceſſary furniture belonging thereunto.</hi> All performed by an eaſie Inſtrument fitted, with lines to that purpoſe.</p>
+            <p>Publiſhed by ANTHONY THOMPSON.</p>
+            <p>
+               <hi>LONDON,</hi> Printed, For <hi>William Leybourn</hi> M. DC. LVIII.</p>
+         </div>
+         <div type="illustrations">
+            <pb facs="tcp:35220:2"/>
+            <pb facs="tcp:35220:2" rendition="simple:additions"/>
+            <pb facs="tcp:35220:3"/>
+            <pb facs="tcp:35220:3"/>
+            <pb facs="tcp:35220:4"/>
+            <p>
+               <figure>
+                  <figDesc>depiction of horological dial instrument</figDesc>
+                  <head>The figure of the Inſtrument</head>
+                  <p>
+                     <list>
+                        <item>
+                           <label>M. N. </label>
+                           <hi>the Window</hi>
+                        </item>
+                        <item>
+                           <label>O. </label>
+                           <hi>the Cieling</hi>
+                        </item>
+                        <item>
+                           <label>C. D. </label>
+                           <hi>the Inſtrument</hi>
+                        </item>
+                        <item>
+                           <label>A. B. </label>
+                           <hi>the Semicircle</hi>
+                        </item>
+                        <item>
+                           <label>H. </label>
+                           <hi>the Center of the Glaſſe</hi>
+                        </item>
+                        <item>
+                           <label>H. I. </label>
+                           <hi>the line in which the picture of the moveable Socket is repreſented to the eye in the Glaſſe.</hi>
+                        </item>
+                        <item>
+                           <label>K. L. </label>
+                           <hi>the perpendicular threed</hi>
+                        </item>
+                        <item>
+                           <label>H. I. </label>
+                           <hi>being infinitely extended would meet with the Cieling in ſome point:</hi>
+                        </item>
+                        <item>
+                           <label>F. G. </label>
+                           <hi>the movable Socket</hi>
+                        </item>
+                        <item>
+                           <label>I. </label>
+                           <hi>the ſlipping knot</hi>
+                        </item>
+                     </list>
+                  </p>
+               </figure>
+            </p>
+            <pb facs="tcp:35220:4" rendition="simple:additions"/>
+            <p>
+               <figure>
+                  <figDesc>depiction of horological dial instrument in use</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:35220:5" rendition="simple:additions"/>
+            <pb facs="tcp:35220:5" rendition="simple:additions"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:35220:6"/>
+            <pb facs="tcp:35220:6"/>
+            <head>The Publiſher to the Reader.</head>
+            <opener>
+               <salute>Courtous Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Heſe ſhort precepts of reflected Di<g ref="char:EOLhyphen"/>alling, the late invention of a Friend of mine, I have thought fit to let the World ſee, and together with them, have annex<g ref="char:EOLhyphen"/>ed ſome precepts of the ſame Nature, formerly written by their Author Mr. <hi>Sam. Foſter,</hi> ſometime <hi>Aſtronomy Profeſſor,</hi> in <hi>Greſham Colledge;</hi> to whom the world is indebted for much variety in all kind of Dial<g ref="char:EOLhyphen"/>ling, and the firſt I know that in <hi>England</hi> made theſe ſort of Reflected Dials to oblique Glaſſes, in ſo much that although this now pub<g ref="char:EOLhyphen"/>liſhed be wholly new, &amp; without any dependance upon any thing ever done by him, yet the Author will not be aſhamed to acknowledge that the dif<g ref="char:EOLhyphen"/>ficulties that he found ariſe in the practice of ſome wayes of that Author, put him upon this as he thinks more eaſie then any yet publiſhed.</p>
+            <closer>Farevvell.</closer>
+         </div>
+      </front>
+      <body>
+         <div type="treatise_on_horological_instrument">
+            <pb facs="tcp:35220:7"/>
+            <div n="1" type="chapter">
+               <head>
+                  <hi>CHAP. 1,</hi> The Deſcription of the Inſtrument.</head>
+               <p>
+                  <seg rend="decorInit">L</seg>Et there be a ſtreight Ruler of Wood, or Braſſe made A G, the length, breadth and thickneſſe, at diſcretion: about the middle of it, or neerer to the end A, let the hol<g ref="char:EOLhyphen"/>low B be made large enough to encompaſſe a ſocket of Braſſe, into which the Glaſſe muſt be fitted, and ſo that the fiducial edge A B C may be imagined to paſſe through the Center of the Glaſſe, when it is fixed. On the other ſide, as at F, may be made another hollow, like that at B, to the end you may uſe either edge of the Ruler, as occaſion may ſerve, to the end of this Ruler muſt be added another at right angles C M, made move<g ref="char:EOLhyphen"/>able, yet ſo ſupported by a bracket E, behind, that it may ſtand ſteady at right angles, and unto this let there be fitted a ſlipping ſocket with a fiducial edge <hi>hi,</hi> let the piece C M be divided as a tangent line to the Radius B C, and of that length that it may contain about 47, or 48 degrees, which you need not divide beyond 45, on the other ſide K M, to a ſhorter Radius, let the tangent line be continued to 64 deg or thereabout, which will be farre enough for moſt Dials of this kind, the whole repreſent<g ref="char:EOLhyphen"/>ing two ſides of a Rectangular Parallelogram, or Car<g ref="char:EOLhyphen"/>penters ſquare, the one legge longer than the other, all which by the figure annexed, is eaſily underſtood.</p>
+            </div>
+            <div n="2" type="chapter">
+               <pb facs="tcp:35220:7"/>
+               <head>
+                  <hi>CHAP. 2.</hi> Precepts for the ready <g ref="char:V">Ʋ</g>ſe of this Inſtrument.</head>
+               <p>FIrſt, in the place where you intend the Glaſſe ſhall lye, make faſt ſome piece of Wood or Braſſe, ex<g ref="char:EOLhyphen"/>actly Horizontal, unto which you may joyn ſome other large piece of Board, Paſtboard, or other, it matters not, ſo as it be made to ſtand firm, and Horizon<g ref="char:EOLhyphen"/>tal, till the Dial ſhall be finiſhed, and then taken away.</p>
+               <p>Secondly, Having upon any part of your fixed piece of Wood made a mark, over which preciſely ſhall be the Center of your Glaſſe, and upon this mark as a Center de<g ref="char:EOLhyphen"/>ſcribe ſo much of a Circle as is neceſſary, to as large a Radius as the Paſtboard will give way, and then the Sun ſhining hold up a threed, ſo that the ſhadow of it may paſſe through the Center of your Circle, and mark where it cuts the Circumference, and at the ſame inſtant take his altitude, and find his azimuth either trigonometrically, or by ſome Aſtrolabe: (of all projections of the Sphear I know none ſo exact for the performance of all things neceſſary for the making theſe Dials, as the ſolution of all other Aſtronomical Problemes, as that commonly called <hi>Blagraves</hi> Jewel, now put out, every way much amended, and altered by Mr. <hi>John Palmer,</hi> Rector of <hi>Eton</hi> in <hi>Northampton</hi> Shire my eſpecial friend.)</p>
+               <p>Thirdly, Having found his azimuth, ſet off now the South or Eaſt line, by help of a Scale of Chords made to the Radius of your formerly deſcribed Circle, we will take the Example of an Eaſt Dial; As for Example, in the la<g ref="char:EOLhyphen"/>titude of 52 deg. 15 min. I obſerved in the Tropick of <hi>Cancer</hi> the Suns altitude 15 deg. 00 min. by my Aſtrolabe I find his azimuth, then from the Eaſt, or ſix of clock line was 19 deg. or 71 deg. from the Meridian or Midnight line Northward, but becauſe in this Example the Meridi<g ref="char:EOLhyphen"/>an
+<pb facs="tcp:35220:8" rendition="simple:additions"/> could not be expreſſed, I ſet off 19 degrees upon Circle to the right Coaſt, and there through the Center draw a line which ſhall repreſent the Eaſt azimuth.</p>
+               <p>Fourthly, Your Eaſt or Meridian line, if it may be, be<g ref="char:EOLhyphen"/>ing thus drawn, have recourſe to your Aſtrolabe, or by Trigonometry find theſe enſuing things. Firſt, for all ne<g ref="char:EOLhyphen"/>ceſſary houres which will come upon the Dial, find the Suns azimuth, and likewiſe what altitude it hath in that hour, and Azimuth, do this for the Tropick, and the Ho<g ref="char:EOLhyphen"/>rizon (in Dials made to Oblique Glaſſes) the Aequinoctial, or for as many of the Suns Parallels as you pleaſe, I have made choice of the diſtance upon the Horizon, and Tro<g ref="char:EOLhyphen"/>pick of <hi>Cancer,</hi> for in a flat roof two are enough, becauſe the hours will be ſtreight lines, otherwiſe if the roof be con<g ref="char:EOLhyphen"/>cave, convex, or any way un-even, it will require the fin<g ref="char:EOLhyphen"/>ding of more points, write theſe down, as in the Table enſuing.</p>
+               <p>
+                  <table>
+                     <head>In the Latitude of 52 degrees, 15 minutes.</head>
+                     <row>
+                        <cell>
+                           <table>
+                              <head>Diſtances from the Eaſt on the Horizon.</head>
+                              <row>
+                                 <cell role="label">
+                                    <hi>Hours</hi>
+                                 </cell>
+                                 <cell role="label">
+                                    <hi>deg.</hi>
+                                 </cell>
+                                 <cell role="label">
+                                    <hi>min.</hi>
+                                 </cell>
+                                 <cell> </cell>
+                              </row>
+                              <row>
+                                 <cell>4</cell>
+                                 <cell>36</cell>
+                                 <cell>00</cell>
+                                 <cell rows="3">
+                                    <hi>From Eaſt Northward.</hi>
+                                 </cell>
+                              </row>
+                              <row>
+                                 <cell>5</cell>
+                                 <cell>18</cell>
+                                 <cell>40</cell>
+                              </row>
+                              <row>
+                                 <cell>6</cell>
+                                 <cell>00</cell>
+                                 <cell>00</cell>
+                              </row>
+                              <row>
+                                 <cell>7</cell>
+                                 <cell>18</cell>
+                                 <cell>40</cell>
+                                 <cell rows="6">
+                                    <hi>From the Eaſt South<g ref="char:EOLhyphen"/>ward.</hi>
+                                 </cell>
+                              </row>
+                              <row>
+                                 <cell>8</cell>
+                                 <cell>36</cell>
+                                 <cell>20</cell>
+                              </row>
+                              <row>
+                                 <cell>9</cell>
+                                 <cell>51</cell>
+                                 <cell>40</cell>
+                              </row>
+                              <row>
+                                 <cell>10</cell>
+                                 <cell>65</cell>
+                                 <cell>30</cell>
+                              </row>
+                              <row>
+                                 <cell>11</cell>
+                                 <cell>78</cell>
+                                 <cell>20</cell>
+                              </row>
+                              <row>
+                                 <cell>12</cell>
+                                 <cell>90</cell>
+                                 <cell>00</cell>
+                              </row>
+                           </table>
+                        </cell>
+                        <cell>
+                           <table>
+                              <head>In the Tropi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>k of Cancer.</head>
+                              <row>
+                                 <cell role="label" cols="4">
+                                    <hi>Hou. Azim. from Eaſt.</hi>
+                                 </cell>
+                                 <cell role="label" cols="2">
+                                    <hi>☉ Altit.</hi>
+                                 </cell>
+                              </row>
+                              <row>
+                                 <cell role="label">
+                                    <hi>H</hi>
+                                 </cell>
+                                 <cell role="label">
+                                    <hi>m.</hi>
+                                 </cell>
+                                 <cell role="label">
+                                    <hi>D.</hi>
+                                 </cell>
+                                 <cell role="label">
+                                    <hi>m.</hi>
+                                 </cell>
+                                 <cell role="label">
+                                    <hi>D.</hi>
+                                 </cell>
+                                 <cell role="label">
+                                    <hi>m.</hi>
+                                 </cell>
+                              </row>
+                              <row>
+                                 <cell>4</cell>
+                                 <cell>00</cell>
+                                 <cell>37</cell>
+                                 <cell>30</cell>
+                                 <cell>02</cell>
+                                 <cell>00</cell>
+                              </row>
+                              <row>
+                                 <cell>5</cell>
+                                 <cell>00</cell>
+                                 <cell>25</cell>
+                                 <cell>40</cell>
+                                 <cell>10</cell>
+                                 <cell>00</cell>
+                              </row>
+                              <row>
+                                 <cell>6</cell>
+                                 <cell>00</cell>
+                                 <cell>15</cell>
+                                 <cell>00</cell>
+                                 <cell>18</cell>
+                                 <cell>30</cell>
+                              </row>
+                              <row>
+                                 <cell>7</cell>
+                                 <cell>00</cell>
+                                 <cell>03</cell>
+                                 <cell>30</cell>
+                                 <cell>27</cell>
+                                 <cell>30</cell>
+                              </row>
+                              <row>
+                                 <cell>8</cell>
+                                 <cell>10</cell>
+                                 <cell>09</cell>
+                                 <cell>00</cell>
+                                 <cell>37</cell>
+                                 <cell>00</cell>
+                              </row>
+                              <row>
+                                 <cell>9</cell>
+                                 <cell>00</cell>
+                                 <cell>22</cell>
+                                 <cell>30</cell>
+                                 <cell>45</cell>
+                                 <cell>30</cell>
+                              </row>
+                              <row>
+                                 <cell>10</cell>
+                                 <cell>00</cell>
+                                 <cell>40</cell>
+                                 <cell>00</cell>
+                                 <cell>53</cell>
+                                 <cell>30</cell>
+                              </row>
+                              <row>
+                                 <cell>11</cell>
+                                 <cell>00</cell>
+                                 <cell>62</cell>
+                                 <cell>30</cell>
+                                 <cell>59</cell>
+                                 <cell>20</cell>
+                              </row>
+                           </table>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div n="3" type="chapter">
+               <pb facs="tcp:35220:8"/>
+               <head>CHAP. 3.</head>
+               <p>HAving gone thus farre, your next work will be to faſten your Glaſſe in its ſocket, to what obliquity you pleaſe, at adventure, and ſo to order all things that the Center of your Glaſſe may be directly o<g ref="char:EOLhyphen"/>ver the Center of your formerly deſcribed Circle, and the heighth of the Center of your Glaſſe equal to the thick<g ref="char:EOLhyphen"/>neſſe of your Inſtrument, ſo that the hollow part of the Ruler encompaſſing the ſocket, the fiducial edge may paſſe through the Center of your Glaſſe, which you may marke with a little ſpeck of ink, till your Dial is done.</p>
+               <p>The houres are to be drawn in this manner; Firſt, limit the Horizon, if your Glaſſe lye oblique to it, to the end the line be not extended where the Sun can never ſhine; This work is eaſily done if the roof be flat, by finding one<g ref="char:EOLhyphen"/>ly two points thus;</p>
+               <p>Place your Inſtrument as before, and ſlip the moveable ſocket to 0 deg. 0 min. then hang up a perpendicular threed in any part of the roof, that it may fall upon the Horizon, then putting your Inſtrument gently to the threed, obſerve with your eye where the fiducial edge of the ſocket is reflected through the Center of your Glaſſe, and there make a mark by a ſlipping knot, or any other way you pleaſe, then holding a thread upon the Center of your Glaſſe, gently extend it by the former mark, till it come to the Cieling, and there make a mark, for that ſhall be one point of your Horizon reflected, repeat this work as oft as you pleaſe, ſo ſhall you have as many points as you deſire, through which draw a line that makes no angles, which ſhall be the reflected Horizon.</p>
+               <p>Go now to your Table of diſtances from the Eaſt and firſt ſet off the ſix of Clock line, in this manner: Extend a threed infinitely, that may paſſe through the Center of your Glaſſe, and the ſix of Clock mark in your Horizon<g ref="char:EOLhyphen"/>tal Circle, then in the reflected Horizon, hold up a per<g ref="char:EOLhyphen"/>pendicular thread with a plummet at the end, that may juſt touch your other threed, and in the reflected Hori<g ref="char:EOLhyphen"/>zon.
+<pb facs="tcp:35220:9" rendition="simple:additions"/> make a mark. Do thus for all the other diſtances according to your Table, and make ſeveral marks.</p>
+               <p>Then laſtly, go to your Table for the Tropick of <hi>Can<g ref="char:EOLhyphen"/>cer,</hi> and in the mark in your Circle belonging to every hour, place your Inſtrument, and move the ſocket in the upright ruler to the degree of Altitude belonging to that hour, and marked in the Table, and with your eye pro<g ref="char:EOLhyphen"/>ject it by a threed hung up any where with a ſlipng knot in the ſame manner you did your reflected Horizon, and where a threed extended from the Center of the Glaſſe touching the Cieling that is the point for that hour, and a line drawn from the point to its correpſpondent in the Horizon ſhall repreſent the line where the reflected ſpot of light will be for all the yeer. Do this for all the reſt.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>Chap. 4.</head>
+               <p>IN this manner may the furniture of Dialls be eaſily put on, <hi>viz.</hi> the Parallels of Declination, of Altitude, of Azimuth, points of the Compaſſe, proportions of the ſhadowes to the Gnomons, and the like, which every mans induſtry will eaſily perform.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>
+                  <hi>Chap. 5.</hi> How to performe all the fore-going precepts, without any projection by the eye.</head>
+               <p>FOraſmuch as the finding the reflection of the ſock<g ref="char:EOLhyphen"/>et <hi>h i,</hi> through the Center of the Glaſſe; and after that the projection of the neceſſary points may ſeem difficult to ſome not uſed thereunto, though in it ſelf it be eaſie; I have added this Chapter, whereby the help of an inſtrument A B, Let the perpendicular ruler of your projecting Inſtrument C M be placed within the room, and applyed to that Azimuth to which you deſire to project the correſpondent hour, and then by help of
+<pb facs="tcp:35220:9" rendition="simple:additions"/> your plummet B C obſerve what inclination your Glaſſe hath to the Horizon in that Azimuth, double that, and adde it to your tabular Altitude, and to that degree re<g ref="char:EOLhyphen"/>move your ſight, then a threed drawn thereby from the Center of the Glaſſe ſhall give you the point deſired in the roof. <hi>Example,</hi> In the latitude of 52. 15 in the Tro<g ref="char:EOLhyphen"/>pick of <hi>Cancer,</hi> I find the Suns Azimuth 15 deg. and the Altitude in our Horizon 18 d. 30′. But by a plumb line B C, I find the Glaſſe in that Azimuth to incline to the Horizon 5 d. 00′, I ſay if to 18 d. 30′, the Alti<g ref="char:EOLhyphen"/>tude in our Horizon, I adde 10 d. 00′. the double of the inclination of the Glaſſe, and to the Altitude, <hi>viz.</hi> 28 d. 30′, I remove the ſight h D i, and from the Cen<g ref="char:EOLhyphen"/>ter of the Glaſſe, through the point D, I draw a threed that ſhall ſhew the point upon the roof. But becauſe the Diameter of the Glaſſe is commonly little, and conſe<g ref="char:EOLhyphen"/>quently the inclination, not accurately to be taken, you muſt either continue the plain of your Glaſſe, or work by this proportion.</p>
+               <p>As the Radius, is to the tangent of the greateſt Inclina<g ref="char:EOLhyphen"/>tion: So is the Coſine of the Ark comprehended between that and the Azimuth in which you ſeek the Inclinati<g ref="char:EOLhyphen"/>on, to the tangent of the Inclination ſought.</p>
+               <figure>
+                  <p>E</p>
+                  <p>B</p>
+                  <p>A</p>
+                  <p>D</p>
+                  <p>C</p>
+               </figure>
+               <p>
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ED the grea<g ref="char:EOLhyphen"/>teſt inclination.</p>
+               <p>DC the Ark comprehend<g ref="char:EOLhyphen"/>ed between the two Azimuths.</p>
+               <p>BC the inclination ſought.</p>
+               <p>A the common interſecti<g ref="char:EOLhyphen"/>on of the Horizon of the plain, and of the place, the proportion is plain, as AD Radius, is to DE tangent: So is AC, the Coſine of DC, to BC a tangent. But here it is neceſſary that the Glaſſe be firſt fixed at a given angle.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="treatise_on_horology">
+            <pb facs="tcp:35220:10"/>
+            <head>A general and moſt eaſie way, to project houre lines on all kinds of ſuperficies without any knowledge how they are ſituated in reſpect of Declination or Inclination.</head>
+            <p n="1">1. LEt the <hi>Gnomon</hi> being firſt ſharpned with a point be ſhaped, and faſtned in ſuch manner that it may no ways hinder, either the Draught of the <hi>Horizontal</hi> line, or the point of the ſhadow from having free acceſſe to the Dial at all times of the yeare.</p>
+            <p n="2">2 Draw a Horizontal line by help of the Semicircle in a true levell both in regard of it ſelf, &amp; alſo to the point of the <hi>Gnomon,</hi> through the whole ſuperficies, on which the Dial is to be deſcribed, and if the ſuperficies be very much inclined to the Horizon, ſo that it will not receive the ho<g ref="char:EOLhyphen"/>rizontal line upon it, you muſt ſet up ſome board or ſuch like, upon which for a time you are to inſcribe the Hori<g ref="char:EOLhyphen"/>zontal line, and by help of which the houre lines are to be projected upon the ſuperficies.</p>
+            <p n="3">3 Obſerve the point of the ſhadow of the <hi>Gnomon,</hi> and the Suns Altitude at the ſame inſtant of time.</p>
+            <p n="4">4 By the Altitude obſerved, compute the Azimuth of the Sun from the Meridian.</p>
+            <p n="5">5 The ſame Azimuth muſt be projected upon the Ho<g ref="char:EOLhyphen"/>rizontal line, by help of a perpendicular threed either ap<g ref="char:EOLhyphen"/>plyed to the point of the <hi>Gnomon,</hi> or elſe covering to your ſight the point of the <hi>Gnomon,</hi> and ſhadow both together; and with the ſame view cutting thorough the Horizontal line, obſerve exactly where it then cuts, for that ſame ſe<g ref="char:EOLhyphen"/>ction ſhall be the Azimuth projected upon the Horizontal line.</p>
+            <p n="6">6 Let any kind of Plaine board, or Paſt-board be now applyed to the Horizontal line, which muſt alſo touch the point of the <hi>Gnomon,</hi> and conſequently ſhall therefore exactly agree with the Plane of the Horizon, upon which Plane the point of the <hi>Gnomon</hi> is to be ſigned, which may be called the Center, and afterwards a right line is to be
+<pb facs="tcp:35220:10"/> drawne alſo upon the ſame Plane from the Center to the ſigne of the Azimuth, which was before marked upon the Horizontal line.</p>
+            <p n="7">7 Then taking the ſame Plaine board or paſt-board away, deſcribe upon it the Meridian line or the houre of 12, draw it from the Center before noted at the true an<g ref="char:EOLhyphen"/>gle that it hath from the Azimuth before drawne, and alſo to the true Coaſt of the World, and let it be extended on both ſides the Center if need be.</p>
+            <p n="8">8 To the Meridian ſo pitched let the lines of an Hori<g ref="char:EOLhyphen"/>zontal Dial (for the Latitude wherein you are) be drawne thereto out of the Center upon the Plaine.</p>
+            <p n="9">9 Then again, let the Plaine be applyed to its former ſituation, ſo as that the Center of the Horizontal Dial upon the Plaine, may agree to the point of the <hi>Gnomon,</hi> and the Azimuth alſo, which was drawn upon the Plain may fit with the azimuth before projected upon the horizontal line, which done, let a threed be fixed in the center of your hori<g ref="char:EOLhyphen"/>zontal Dial upon the Plaine, by helpe where of you may transfer every houre from the Plaine into the Horizon<g ref="char:EOLhyphen"/>tal line, and let every houre be there noted with a ſeveral point, eſpecially take notice of the houre of 12, which if it chance to runne off your ſuperficies, you muſt (till your Dial be finiſhed) faſten ſome kind of object (whereon the Horizontal line is alſo to be projected) that may receive it.</p>
+            <p n="10">10 After all this, take your Plaine away (for there will now be no more need of it) and conjecture where about the Axis of the world would paſſe from the point of the <hi>Gnomon,</hi> to the Poles of the world, for in that place is the Meridian to be projected, which that it may be done more commodiouſly you muſt place ſome object in the way that may receive the ſame Meridian, unleſſe perhaps the ſuperficies of the Dial will ſupply that want which very often it doth, now it matters not whether that object be pla<g ref="char:EOLhyphen"/>ced below or above the <hi>Gnomon,</hi> you may do that which you find moſt convenient, only ſo that it ſtand in the way where the Axis muſt paſſe, upon the ſaid Object you are
+<pb facs="tcp:35220:11"/> then to project the Meridian line which will ſoone be done by helpe of a perpendicular thread, caſt by your eye upon the point of the <hi>Gnomon,</hi> and alſo upon the point of 12 in the Horizontal line, both together, for ſo the perpendi<g ref="char:EOLhyphen"/>cular thread projected upon the Object ſhall ſhew where the Meridian is to be drawne.</p>
+            <p n="11">11 Into this Meridian therefore one of the Poles of the world (which of them you find to lye moſt expedient) is to be inſerted, by helpe of your Semicircle elevated or depreſſed from the point of the <hi>Gnomon,</hi> towards the pro<g ref="char:EOLhyphen"/>jected Meridian line, according to the Latitude of your place, ſo ſhall a thread extended from the Pole point thus ſigned out, unto the point of the <hi>Gnomon,</hi> repreſent the Axis of the World.</p>
+            <p n="12">12 Laſt of all, by theſe you may eaſily project all the houres, for if by your eye you repoſe the thread or Axis upon each point of ſuch houres as were before inſerted into the horizontal line, every one of theſe projections ſhall re<g ref="char:EOLhyphen"/>preſent upon any ſuperficies that ſtands in your way, each of the houres required, now to draw the houre lines thus repreſented by the thread is an eaſie thing for every one to doe, among which hour lines the ſhadow of the point of the <hi>Gnomon</hi> as it creepeth along, will ſhew the time of the day.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:35220:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
